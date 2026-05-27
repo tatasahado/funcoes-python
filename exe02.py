@@ -8,3 +8,5 @@ print(result)
 print(result2)
 
 print(somar())
+
+print
